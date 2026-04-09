@@ -32,8 +32,9 @@ The system addresses common challenges in Educational Data Mining:
 
 ## 🖥️ 系统演示 (System Showcase)
 | 班级风险监控 | 个体深度诊断 | AI 预测与干预建议 |
-| :---: | :---: | :---: |
-| ![Class Dashboard](dashboard_1.png) | ![Individual Diagnosis](dashboard_2.png) | ![Prediction Results](dashboard_3.png) |g) |
+| :---: | :---: | :---: 
+| ![Class Dashboard](dashboard_1.png) | ![Individual Diagnosis](dashboard_2.png) | ![Prediction Results](dashboard_3.png) |
+
 
 ## 📂 Project Structure
 ```text
