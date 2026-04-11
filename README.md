@@ -31,9 +31,10 @@ The system addresses common challenges in Educational Data Mining:
 4. **Deployment**: Built with **Streamlit** for interactive, web-based accessibility.
 
 ## 🖥️ 系统演示 (System Showcase)
-| 班级风险监控 | 个体深度诊断 | AI 预测与干预建议 |
-| :---: | :---: | :---: 
-| ![Class Dashboard](dashboard_1.png) | ![Individual Diagnosis](dashboard_2.png) | ![Prediction Results](dashboard_3.png) |
+| 班级风险监控 | 个体深度诊断 | AI 预测与干预建议 |
+
+| :---: | :---: | :---: |
+| ![Class Dashboard](dashboard_1.png) | ![Individual Diagnosis](dashboard_2.png) | ![Prediction Results](dashboard_3.png) |![Prediction Results](dashboard_4.png) |
 
 
 ## 📂 Project Structure
